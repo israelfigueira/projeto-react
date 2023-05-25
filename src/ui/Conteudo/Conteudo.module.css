@@ -1,0 +1,15 @@
+.content {
+    position: absolute;
+    width: auto;
+    height: auto;
+    flex-grow: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+    padding: 3em;
+    width: 1000px;
+    height: 800px;
+    margin: 0 auto;
+    margin-bottom: 20em;
+    z-index: 1;
+}
